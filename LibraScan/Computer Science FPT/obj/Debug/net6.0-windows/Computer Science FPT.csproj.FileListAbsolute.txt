@@ -1,0 +1,17 @@
+C:\Users\sauba\source\repos\Computer Science FPT\Computer Science FPT\bin\Debug\net6.0-windows\Computer Science FPT.exe
+C:\Users\sauba\source\repos\Computer Science FPT\Computer Science FPT\bin\Debug\net6.0-windows\Computer Science FPT.deps.json
+C:\Users\sauba\source\repos\Computer Science FPT\Computer Science FPT\bin\Debug\net6.0-windows\Computer Science FPT.runtimeconfig.json
+C:\Users\sauba\source\repos\Computer Science FPT\Computer Science FPT\bin\Debug\net6.0-windows\Computer Science FPT.dll
+C:\Users\sauba\source\repos\Computer Science FPT\Computer Science FPT\bin\Debug\net6.0-windows\Computer Science FPT.pdb
+C:\Users\sauba\source\repos\Computer Science FPT\Computer Science FPT\obj\Debug\net6.0-windows\Computer Science FPT.csproj.AssemblyReference.cache
+C:\Users\sauba\source\repos\Computer Science FPT\Computer Science FPT\obj\Debug\net6.0-windows\Computer_Science_FPT.Form1.resources
+C:\Users\sauba\source\repos\Computer Science FPT\Computer Science FPT\obj\Debug\net6.0-windows\Computer Science FPT.csproj.GenerateResource.cache
+C:\Users\sauba\source\repos\Computer Science FPT\Computer Science FPT\obj\Debug\net6.0-windows\Computer Science FPT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sauba\source\repos\Computer Science FPT\Computer Science FPT\obj\Debug\net6.0-windows\Computer Science FPT.AssemblyInfoInputs.cache
+C:\Users\sauba\source\repos\Computer Science FPT\Computer Science FPT\obj\Debug\net6.0-windows\Computer Science FPT.AssemblyInfo.cs
+C:\Users\sauba\source\repos\Computer Science FPT\Computer Science FPT\obj\Debug\net6.0-windows\Computer Science FPT.csproj.CoreCompileInputs.cache
+C:\Users\sauba\source\repos\Computer Science FPT\Computer Science FPT\obj\Debug\net6.0-windows\Computer Science FPT.dll
+C:\Users\sauba\source\repos\Computer Science FPT\Computer Science FPT\obj\Debug\net6.0-windows\refint\Computer Science FPT.dll
+C:\Users\sauba\source\repos\Computer Science FPT\Computer Science FPT\obj\Debug\net6.0-windows\Computer Science FPT.pdb
+C:\Users\sauba\source\repos\Computer Science FPT\Computer Science FPT\obj\Debug\net6.0-windows\Computer Science FPT.genruntimeconfig.cache
+C:\Users\sauba\source\repos\Computer Science FPT\Computer Science FPT\obj\Debug\net6.0-windows\ref\Computer Science FPT.dll
